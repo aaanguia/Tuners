@@ -1,0 +1,18 @@
+.cards {
+  width: 500px;
+  height: auto;
+  display: inline-block;
+  border-style: solid;
+  padding-top: 15px;
+}
+
+.wrapper {
+  margin: auto;
+}
+
+.itemImage {
+  align-items: center;
+  width: 50%;
+  height: auto;
+  padding-left: 50px;
+}
